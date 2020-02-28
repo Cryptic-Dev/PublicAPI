@@ -1,4 +1,4 @@
-# Cryptic Public API
-CrypticGames' public API
+# Minetale Public API
+Minetale's public REST API
 
-This api is currently in development, and is not yet available to the public.
+This api is currently in development, and is not yet available.
